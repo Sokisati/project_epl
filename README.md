@@ -1,6 +1,6 @@
 # Guide
 
-Don't copy and paste what you see mindlessly! And make sure you follow this guide in order. 
+Mmake sure you follow this guide in order. No idea what you should do if you run into errors, just google it.
 
 
 ## Tools
@@ -15,4 +15,4 @@ For whatever reason, there is no enable camera option in raspi-config for OS Lit
 and reboot.
 
 ## .sh file
-Clone this repo with ```git clone https://github.com/Sokisati/project_epl``` and write ```cd project_epl && chmod +x setup_script.sh && chmod +x mission.sh && source setup_script.sh```.
+Clone this repo with ```git clone https://github.com/Sokisati/project_epl``` and write ```cd project_epl && chmod +x setup_script.sh && chmod +x mission.sh && source setup_script.sh```
