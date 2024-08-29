@@ -2,16 +2,10 @@
 
 Don't copy and paste what you see mindlessly! And make sure you follow this guide in order. 
 
-## First steps
-It's a sin to not do this for every RPI project:
 
-```
-sudo apt update
-sudo apt upgrade
-```
 ## Tools
 
-```sudo apt update && sudo apt install -y git python3-venv python3-pip i2c-tools```
+```sudo apt update && sudo apt upgrade && sudo apt install -y git python3-venv python3-pip i2c-tools```
 
 ## I2C
 Write ```sudo raspi-config``` in console and enable I2C in interface tab if you haven't already.
