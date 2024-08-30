@@ -7,6 +7,6 @@ source env_epl/bin/activate
 
 pip install RPi.GPIO bme680 gpsd-py3 gpiozero pigpio mpu9250-jmdev pillow numpy Adafruit-SSD1306 psutil
 
-git clone https://github.com/Sokisati/st_epl && git clone https://github.com/Sokisati/camera_filter_epl && git clone https://github.com/Sokisati/camera_epl
+git clone https://github.com/Sokisati/st_epl && git clone https://github.com/Sokisati/camera_filter_epl && git clone https://github.com/Sokisati/camera_epl && https://github.com/Sokisati/test_epl
 
 
