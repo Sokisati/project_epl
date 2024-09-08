@@ -1,10 +1,8 @@
 # Guide
-
-Mmake sure you follow this guide in order. No idea what you should do if you run into errors, just google it.
+Make sure you follow this guide in order. No idea what you should do if you run into errors, just google it.
 
 
 ## Tools
-
 ```sudo apt update && sudo apt upgrade && sudo apt install -y git python3-venv python3-pip i2c-tools```
 
 ## I2C
